@@ -10,6 +10,6 @@ HTML, Javascript, CSS, and Leaflet were all used to help give this map a basemap
 # Sources
 ---------------
 All of the data used for the map came from the City of Winston Salem open data website.  
+## [City of Winston Salem Open Data](https://wsoic.cityofws.org)
 ## [The school data](https://wsoic.cityofws.org/datasets/0f9326d3320c43d486d1ae1132d0b8fa_3)
 ## [Population Density Data](https://wsoic.cityofws.org/datasets/9562e7e124b846ac8d9632708f41eba1_1?page=3)
-## [City of Winston Salem Open Data](https://wsoic.cityofws.org)
