@@ -6,4 +6,4 @@ This map is an interactive map showing the schools in Winston Salem, North Carol
 The apple icons are considered the point data in this map and each icon represents a different school and shows the area the school is in as well as the name when the icon is clicked.  A choropleth map is used to show the population density in these areas.  This makes it easier for the audience to see if there is a difference in the quantity of schools in more populated areas versus less populated areas.
 
 HTML, Javascript, CSS, and Leaflet were all used to help give this map a basemap, and map elements such as font, color, size, and other commands like assigning different attributes to different data.
-
+-
